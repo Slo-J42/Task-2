@@ -13,10 +13,8 @@
 4. [Key Phishing Indicators](#key-phishing-indicators)  
 5. [Results](#results)  
 6. [Reproducing the Analysis](#reproducing-the-analysis)  
-7. [Interview Q & A](#interview-q--a)  
-8. [Tools Used](#tools-used)  
-9. [Author](#author)  
-10. [License](#license)
+7. [Tools Used](#tools-used)  
+8. [Author](#author)  
 
 ---
 
@@ -25,7 +23,7 @@ This task demonstrates a structured approach to **phishing-email analysis**.
 We inspect sender details, headers, links, attachments, and language cues to prove the email is malicious, and we summarize the findings in a concise report.
 
 > 📄 **Full PDF Report:**  
-> [Phishing_Email_Analysis_Report.pdf](./Phishing_Email_Analysis_Report.pdf)
+> [Phishing_Email_Analysis_Report.pdf]([./Phishing_Email_Analysis_Report.pdf](https://github.com/Slo-J42/Task-2/blob/main/Phishing_Email_Analysis_Report%20(2).pdf))
 
 ---
 
@@ -86,5 +84,3 @@ The email is a **confirmed phishing attempt** aimed at harvesting credentials an
 
 ---
 
-## License
-This project is licensed under the **MIT License**. See `LICENSE` for details.
